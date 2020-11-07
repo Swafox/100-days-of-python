@@ -8,5 +8,5 @@ First of all, I want to boost my python skills by coding everyday. Persistance i
 Secondly, this challenge will develop a certain discipline in me as I will have to invest a part of my every single day into this challenge. 
 
 ## Sources and programs
-https://github.com/appbrewery/100-days-of-python 
-https://www.hackerrank.com/
+- https://github.com/appbrewery/100-days-of-python 
+- https://www.hackerrank.com/
