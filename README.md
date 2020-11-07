@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python">
+
 ## What is this?
 From 7th of November I am starting a 100 Days Of Python Challenge in which I am going to code and upload some python programs here.
 
