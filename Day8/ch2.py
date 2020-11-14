@@ -10,6 +10,6 @@ def decrypt(cipher_text, shift_amount):
     position = alphabet.index(letter)
     new_position = position - shift_amount
     plain_text += alphabet[new_position]
-  print(f"The decoded text is {plain_text}")
+  print(f"The decoded text is {plain_text}.")
 
 decrypt(cipher_text=text, shift_amount=shift)
